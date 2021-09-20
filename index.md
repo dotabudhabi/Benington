@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Benington Pages
+
+### Benington General Trading L.L.L
+
+Dubai - U.A.E
+
 
 You can use the [editor on GitHub](https://github.com/dotabudhabi/Benington/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
